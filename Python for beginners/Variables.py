@@ -135,7 +135,7 @@ Quantity = 5
 
 def calculate_price():
     price = 50 #local variable
-    Global 
+    global Quantity #global variable    
     Quantity = 10 #global variable
     print(price)
 
