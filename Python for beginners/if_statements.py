@@ -32,3 +32,7 @@ if name:
     print("Name provided")
 else:
     print("Name is empty") # this will be executed
+
+
+
+    
